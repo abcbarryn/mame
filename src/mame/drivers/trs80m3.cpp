@@ -57,12 +57,15 @@ Model 4P - is the same as Model 4 except:
 To Do / Status:
 --------------
 
+There's many DSK disks that are rejected by MAME - needs to be investigated.
+
 trs80m3:   works
 
 trs80m4:   works
-           will boot model 3 floppies, but not model 4 ones
+           Need to check banking
 
 trs80m4p:  floppy not working, so machine is useless
+           In debugger g 402a, then pc=0;g and it will boot.
 
 ***************************************************************************/
 

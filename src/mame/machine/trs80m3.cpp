@@ -292,6 +292,7 @@ void trs80m3_state::port_e4_w(uint8_t data)
     d7 1=enable disk INTRQ to generate NMI
     d6 1=enable disk Motor Timeout to generate NMI */
 
+	m_maincpu->set_input_line(INPUT_LINE_NMI, CLEAR_LINE);
 	m_nmi_mask = data;
 }
 
