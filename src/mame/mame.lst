@@ -1824,7 +1824,7 @@ klaxj4                          // 136075           (c) 1989 (Japan)
 
 @source:atari/liberatr.cpp
 liberatr                        // 136012           (c) 1982
-liberatr2                       // 136012           (c) 1982
+liberatrp                       // 136012           (c) 1982
 
 @source:atari/lynx.cpp
 lynx                            // Atari Lynx Handheld
@@ -18947,6 +18947,7 @@ ti1680                          // Texas Instruments
 ti25503                         // Texas Instruments
 ti30                            // Texas Instruments
 ti5100                          // Texas Instruments
+ti5200                          // Texas Instruments
 tibusan                         // Texas Instruments
 timaze                          // Texas Instruments
 tiprog                          // Texas Instruments
@@ -24438,6 +24439,7 @@ octopus                         //
 
 @source:luxor/abc80.cpp
 abc80                           //
+tkn80                           //
 
 @source:luxor/abc80x.cpp
 abc800c                         //
@@ -28025,6 +28027,8 @@ draw88pkr                       // 1988, BTE, Inc.
 amhbattl
 docchift
 mmhammer
+shpchamp
+zenponta
 
 @source:misc/anes.cpp
 sanma                           // 2001, ANES
@@ -32696,6 +32700,9 @@ skykids                         // (c) 1985
 
 @source:namco/sweetland.cpp
 sweetlnd                        //
+
+@source:namco/sweetland4.cpp
+sweetld4                        //
 
 @source:namco/tankbatt.cpp
 tankbatt                        // (c) 1980 Namco
@@ -38784,6 +38791,9 @@ wccf2chk                        // 2004.?? World Club Champion Football Serie A 
 wccf310j                        // 2005.06 World Club Champion Football European Clubs 2004-2005
 wccf322e                        // 2005.11 World Club Champion Football European Clubs 2004-2005 Ver.3.22
 wccf331e                        // 2005.06 World Club Champion Football European Clubs 2004-2005 Ver.1.1
+wccf331j                        // 2005.12 World Club Champion Football European Clubs 2004-2005 Ver.1.1
+wccf341j                        // 2006.02 World Club Champion Football European Clubs 2004-2005 Ver.1.2
+wccf400j                        // 2006.07 World Club Champion Football European Clubs 2005-2006
 wccf420e                        // 2006.08 World Club Champion Football European Clubs 2005-2006
 wldkicks                        // 2000.03 World Kicks (World, WK2 Ver.A)
 wldkicksj                       // 2000.03 World Kicks (Japan, WK1 Ver.A)
@@ -41146,6 +41156,9 @@ palestra
 @source:skeleton/pdt3100.cpp
 pdt3100                         //
 
+@source:skeleton/pegasos2.cpp
+pegasos2                        //
+
 @source:skeleton/pencil2.cpp
 pencil2                         //
 
@@ -43011,6 +43024,9 @@ rltennisa                       // (c) 1993 TCH
 
 @source:tch/speedspn.cpp
 speedspn                        // (c) 1994
+
+@source:tch/topdrive.cpp
+topdrive                        // (c) 1995
 
 @source:tch/wheelfir.cpp
 wheelfir                        // (c) 199? TCH
